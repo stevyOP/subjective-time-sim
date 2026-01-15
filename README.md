@@ -5,7 +5,7 @@
 This project is my attempt to answer that question using code. It's an interactive visualization of the **Attentional Gate Theory (AGT)**—a psychological model that explains how our brain handles time perception.
 
 ### Try the Simulation
-(Add your Vercel/Netlify deployment link here if you host it, or just screenshot for now)
+
 
 ## 🎯 The Concept
 I've always been fascinated by "Flow States" and how our internal clock is so different from the clock on the wall. 
